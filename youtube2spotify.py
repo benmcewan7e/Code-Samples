@@ -1,4 +1,6 @@
 #WorkInPlaylist
+#YoutubeAPIinfo https://developers.google.com/youtube/v3
+#SpotifyAPIinfo https://developer.spotify.com/documentation/web-api/
 
 import requests
 import json
